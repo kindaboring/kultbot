@@ -12,8 +12,10 @@
 7. (WIP) Utilizes YouTube to update the Visual Production Videos channel with the latest YouTube videos from assigned artists.
 
 ## Requirements:
-- [Augmentor](https://augmentor.readthedocs.io/en/stable/)
+- [Python](https://www.python.org/downloads/)
 - [discord.py](https://discordpy.readthedocs.io/en/stable/)
+- [dotenv](https://pypi.org/project/python-dotenv/)
+- [Augmentor](https://augmentor.readthedocs.io/en/stable/)
 - [numpy](https://numpy.org/)
 - [aiohttp](https://docs.aiohttp.org/en/stable/)
 - [nudepy](https://pypi.org/project/nudepy/)
