@@ -1,0 +1,19 @@
+{
+    "token": "ODEwNjc5Njk5NTQ1NTIyMjA4.YCnKTg.u0PeZmd7TLx74hzgEeDWgANZPPA",
+    "guilds": {
+        "810674080755220480": {
+            "prefix": "!",
+            "language": "en-US",
+            "antiProfanity": false,
+            "antiNudity": false,
+            "antiSpam": false,
+            "allowSpam": [],
+            "captcha": true,
+            "captchaChannel": 968538795051991070,
+            "logChannel": 968564702546374726,
+            "temporaryRole": 968538787913285732,
+            "roleGivenAfterCaptcha": 810675838226923550,
+            "minAccountDate": 86400
+        }
+    }
+}
