@@ -11,7 +11,7 @@
 6. (WIP) Utilizes Instagram to update the Visual Production Photo channel with the latest Instagram posts from assigned artists.
 7. (WIP) Utilizes YouTube to update the Visual Production Videos channel with the latest YouTube videos from assigned artists.
 
-## Requirements:
+## Dependencies:
 - [Python](https://www.python.org/downloads/)
 - [discord.py](https://discordpy.readthedocs.io/en/stable/)
 - [dotenv](https://pypi.org/project/python-dotenv/)
